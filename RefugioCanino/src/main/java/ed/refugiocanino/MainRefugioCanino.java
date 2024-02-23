@@ -10,6 +10,7 @@ public class MainRefugioCanino {
         // Crear una instancia del refugio
         RefugioCanino refugio = new RefugioCanino();
 
+        
         // Agregar algunos perros al refugio
         refugio.agregarPerro("Max", "Labrador");
         refugio.agregarPerro("Bella", "Pastor Alemán");
